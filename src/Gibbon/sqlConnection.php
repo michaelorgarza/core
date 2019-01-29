@@ -89,10 +89,10 @@ class sqlConnection implements ConnectionInterface
     /**
      * generate Connection
      *
-     * @param	string	Server Address:port
-     * @param	string	Database Name
-     * @param	string	User Name
-     * @param	string	Password
+     * @param	string	157.230.64.241
+     * @param	string	gibbon
+     * @param	string	forge
+     * @param	string	zvytRInpH0vnYh3smTny
      * @param	string	error Message
      *
      * @return	Object	PDO Connection
